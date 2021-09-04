@@ -102,7 +102,7 @@ public class GET_Tests extends Base{
 	    @AfterTest()
 	    public void teardown()
 	    {
-	    	
+	    	//Write teardown code here	
 	    }
 
 }
