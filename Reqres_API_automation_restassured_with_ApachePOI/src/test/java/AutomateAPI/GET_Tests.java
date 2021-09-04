@@ -104,6 +104,7 @@ public class GET_Tests extends Base{
 	    {
 
 	    	//Write teardown code here	
+	    	System.out.println("TearDown");
 	    }
 
 }
